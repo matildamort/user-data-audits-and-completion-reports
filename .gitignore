@@ -1,0 +1,14 @@
+# Output reports
+reports/
+~*.*    # temp Excel lock files
+
+# User-provided data
+user_data/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# IDE/project files
+.vscode/
+.idea/
